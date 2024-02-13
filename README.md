@@ -1,4 +1,4 @@
-# <img src="klipartz.com.png" alt="sonic" width="80" />  Hola, mi nombre es Sergio 🤖
+# <img src="klipartz.com.png" alt="sonic" width="80" />  Hola, mi nombre es Sergio
 ### Entusiasta de los datos 🤓📊
 
 De profesión Ingeniero Agrónomo, mi trayectoria profesional siempre ha estado ligada a la investigación, a la estadística y en los últimos años a la programación, el análisis de datos y la ciencia de datos. Mi interés profesional es entregar valor mediante la optimización de procesos y el desarrollos de modelos, que permitan, de forma cuantificable, entregar valor y aportar desde una perspectiva crítica y positiva a los equipos de trabajo.
