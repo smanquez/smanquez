@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Sergio 🤖
 
 
-# <img src="klipartz.com.png" alt="sonic" width="30" />  Hola, mi nombre es Brais Moure 👋
+# <img src="klipartz.com.png" alt="sonic" width="30" />  Hola, mi nombre es Sergio 🤖
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
