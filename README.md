@@ -4,7 +4,7 @@ De profesión Ingeniero Agrónomo, mi trayectoria profesional siempre ha estado 
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-57996C?logo=python&logoColor=white&style=for-the-badge)]()
-[![RStudio](https://img.shields.io/badge/RStats-8D33FF?logo=rstudio&logoColor=white&style=for-the-badge)]()
+[![RStudio](https://img.shields.io/badge/RStats-8D33FF?logo=r&logoColor=white&style=for-the-badge)]()
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)]()
 [![MySQL](https://img.shields.io/badge/MySQL-steelblue?logo=mysql&logoColor=fff&style=for-the-badge)]()
 [![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=fff&style=for-the-badge)]()
