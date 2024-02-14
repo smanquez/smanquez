@@ -12,7 +12,7 @@ De profesión Ingeniero Agrónomo, mi trayectoria profesional siempre ha estado 
 [![Git](https://img.shields.io/badge/GIT-6C8EAD?logo=git&logoColor=fff&style=for-the-badge)]()
 [![Github](https://img.shields.io/badge/GITHUB-CE8D66?logo=github&logoColor=fff&style=for-the-badge)]()
 [![MLFlow](https://img.shields.io/badge/MLFlow-392F5A?logo=mlflow&logoColor=fff&style=for-the-badge)]()
-
+[![Docker](https://img.shields.io/badge/Docker-3E442B?logo=docker&logoColor=fff&style=for-the-badge)]()
 
 
 ## Encuéntrame en:
