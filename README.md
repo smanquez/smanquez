@@ -9,6 +9,11 @@ De profesión Ingeniero Agrónomo, mi trayectoria profesional siempre ha estado 
 [![MySQL](https://img.shields.io/badge/MySQL-steelblue?logo=mysql&logoColor=fff&style=for-the-badge)]()
 [![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=fff&style=for-the-badge)]()
 [![Tableau](https://img.shields.io/badge/Tableau-9F3E63?logo=tableau&logoColor=fff&style=for-the-badge)]()
+[![Git](https://img.shields.io/badge/GIT-6C8EAD?logo=git&logoColor=fff&style=for-the-badge)]()
+[![Github](https://img.shields.io/badge/GITHUB-CE8D66?logo=github&logoColor=fff&style=for-the-badge)]()
+[![MLFlow](https://img.shields.io/badge/MLFlow-392F5A?logo=mlflow&logoColor=fff&style=for-the-badge)]()
+
+
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Mánquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/smanquez)
