@@ -1,6 +1,6 @@
 # <img src="giphy.gif" alt="sonic" width="150" />  ¡Hola! 👋🏼
 
-De profesión Ingeniero Agrónomo, mi trayectoria profesional siempre ha estado ligada a la investigación, a la estadística y en los últimos años a la programación, el análisis de datos y la ciencia de datos. Mi interés profesional es entregar valor mediante la optimización de procesos y el desarrollos de modelos, que permitan, de forma cuantificable, entregar valor y aportar desde una perspectiva crítica y positiva a los equipos de trabajo.
+I am an Agronomist by profession, and my professional career spans research, statistics, and in recent years, programming, data analysis, and data science. My professional goal is to generate quantifiable and measurable value, using technology as a means and not an end in itself. I firmly believe in the importance of making data-driven decisions, and I always seek to learn new technologies and methodologies that allow me to achieve this goal.
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-57996C?logo=python&logoColor=white&style=for-the-badge)]()
