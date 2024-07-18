@@ -7,7 +7,7 @@ Hi, my name is Sergio Mánquez. I am an Agronomist by profession, and my career 
 [![RStudio](https://img.shields.io/badge/RStats-8D33FF?logo=r&logoColor=white&style=for-the-badge)]()
 [![SQL Server](https://img.shields.io/badge/SQLSERVER-CC2927?logo==microsoft-sql-server&logoColor=fff&style=for-the-badge)]()
 [![MySQL](https://img.shields.io/badge/MySQL-steelblue?logo=mysql&logoColor=fff&style=for-the-badge)]()
-[![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=microsoftpowerbi&logoColor=fff&style=for-the-badge)]()
+[![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=microsoft-power-bi&logoColor=fff&style=for-the-badge)]()
 [![Tableau](https://img.shields.io/badge/Tableau-9F3E63?logo=tableau&logoColor=fff&style=for-the-badge)]()
 [![Git](https://img.shields.io/badge/GIT-6C8EAD?logo=git&logoColor=fff&style=for-the-badge)]()
 [![Github](https://img.shields.io/badge/GITHUB-CE8D66?logo=github&logoColor=fff&style=for-the-badge)]()
