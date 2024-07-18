@@ -2,7 +2,7 @@
 
 I am an Agronomist by profession, and my professional career spans research, statistics, and in recent years, programming, data analysis, and data science. My professional goal is to generate quantifiable and measurable value, using technology as a means and not an end in itself. I firmly believe in the importance of making data-driven decisions, and I always seek to learn new technologies and methodologies that allow me to achieve this goal.
 
-## `Technologies`:
+## `Technologies:`
 [![Python](https://img.shields.io/badge/Python-57996C?logo=python&logoColor=white&style=for-the-badge)]()
 [![RStudio](https://img.shields.io/badge/RStats-8D33FF?logo=r&logoColor=white&style=for-the-badge)]()
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)]()
@@ -16,7 +16,7 @@ I am an Agronomist by profession, and my professional career spans research, sta
 [![Streamlit](https://img.shields.io/badge/Streamlit-23B5D3?logo=streamlit&logoColor=fff&style=for-the-badge)]()
 
 
-## Find me at:
+## `Find me at:`
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Mánquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/smanquez)
 
 <!--
