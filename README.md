@@ -13,7 +13,7 @@ I am an Agronomist by profession, and my professional career spans research, sta
 [![Github](https://img.shields.io/badge/GITHUB-CE8D66?logo=github&logoColor=fff&style=for-the-badge)]()
 [![MLFlow](https://img.shields.io/badge/MLFlow-392F5A?logo=mlflow&logoColor=fff&style=for-the-badge)]()
 [![Docker](https://img.shields.io/badge/Docker-3E442B?logo=docker&logoColor=fff&style=for-the-badge)]()
-[![Streamlit](https://img.shields.io/badge/Docker-3E442B?logo=docker&logoColor=fff&style=for-the-badge)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-3E442B?logo=streamlit&logoColor=fff&style=for-the-badge)]()
 
 
 ## Find me at:
