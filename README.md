@@ -15,7 +15,7 @@ I am an Agronomist by profession, and my professional career spans research, sta
 [![Docker](https://img.shields.io/badge/Docker-3E442B?logo=docker&logoColor=fff&style=for-the-badge)]()
 
 
-## Encuéntrame en:
+## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Mánquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/smanquez)
 
 <!--
