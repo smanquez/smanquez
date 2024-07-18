@@ -1,4 +1,4 @@
-# <img src="hello.gif" height='200' width="550">
+# <center><img src="hello.gif" height='250' width="550"></center>
 
 I am an Agronomist by profession, and my professional career spans research, statistics, and in recent years, programming, data analysis, and data science. My professional goal is to generate quantifiable and measurable value, using technology as a means and not an end in itself. I firmly believe in the importance of making data-driven decisions, and I always seek to learn new technologies and methodologies that allow me to achieve this goal.
 
