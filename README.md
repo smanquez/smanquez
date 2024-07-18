@@ -1,6 +1,6 @@
 <img src="hello.gif" height='250' width="550">
 
-Hi, my name is Sergio Mánquez. I am an Agronomist by profession, and my career spans research, statistics, and, in recent years, programming, data analysis, and data science. My professional goal is to generate quantifiable and measurable value, using technology as a means, not an end in itself. I firmly believe in the importance of making data-driven decisions, and I always seek to learn new technologies and methodologies that allow me to achieve this goal.
+Hi, my name is Sergio Mánquez. My professional career spans research, statistics, and, in recent years, programming, data analysis, and data science. My professional goal is to generate quantifiable and measurable value, using technology as a means and not an end in itself. I believe in the importance of making data-driven decisions, and I always seek to learn new technologies and methodologies that enable me to achieve this goal.
 
 ## `Technologies:`
 [![Python](https://img.shields.io/badge/Python-57996C?logo=python&logoColor=white&style=for-the-badge)]()
